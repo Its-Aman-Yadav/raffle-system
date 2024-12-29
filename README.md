@@ -22,8 +22,3 @@ This code creates a provably random smart contract lottery.
     - Work on a local chain
     - Work on forked testnet
     - Work on mainnet
-  
-   
-## Deployed Raffle Verified on Etherscan 
-
-https://sepolia.etherscan.io/address/0x2722b9065690035563b115fe255007d98ba537e7
