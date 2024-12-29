@@ -4,7 +4,6 @@ pragma solidity ^0.8.18;
 
 import {Script} from "forge-std/Script.sol";
 import {VRFCoordinatorV2Mock} from "@chainlink/contracts/src/v0.8/mocks/VRFCoordinatorV2Mock.sol";
-// Ready-made contract from Cyfrin's repo
 import {LinkToken} from "../test/mocks/LinkToken.sol";
 
 contract HelperConfig is Script {

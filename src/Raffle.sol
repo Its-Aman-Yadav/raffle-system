@@ -6,7 +6,7 @@ pragma solidity ^0.8.18;
 
 /**
  * @title Sample Raffle Contract
- * @author Dhanesh Gujrathi (dhanesh24g)
+ * @author Aman Yadav
  * @notice This contract is to create a sample raffle
  * @dev Implements Chainlink VRFv2
  */
